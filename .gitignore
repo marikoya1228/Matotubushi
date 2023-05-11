@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Matotubushi/Library/
+Matotubushi/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Matotubushi/Temp/FSTimeGet-bfd430c3dc8446e4fba7d67652c4b02d
+Matotubushi/Temp/
